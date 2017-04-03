@@ -7,3 +7,7 @@ embeddings/text8.zip
 # Ignore the virtualenv
 virtual/
 
+# Ignore python cache and notebook checkpoints.
+__pycache__
+.ipynb_checkpoints
+
