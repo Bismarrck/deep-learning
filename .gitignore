@@ -3,6 +3,7 @@
 # Ignore downloaded datasets
 embeddings/data/
 embeddings/text8.zip
+face_generation/data/
 
 # Ignore the virtualenv
 virtual/
@@ -14,3 +15,11 @@ __pycache__
 *.p
 
 .ipynb_checkpoints/
+
+
+*.pyc
+*.p
+*.pkl 
+
+*/.floyd*
+.idea/
